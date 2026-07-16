@@ -4,6 +4,6 @@
   "forceUpdate": false,
   "title": "Yeni Güncelleme",
   "message": "PARS TV için yeni sürüm yayınlandı.",
-  "apkUrl": "",
+  "apkUrl": "https://github.com/punistek/pars-tv-update/releases/download/v1.0.0/app-release.apk",
   "publishedAt": "2026-07-16"
 }
